@@ -1,4 +1,4 @@
-# CelesteClassic - A Tribute to the Beloved Platformer
+# Celeste Classic - A Tribute to the Beloved Platformer
 
 Welcome to the Celeste Classic Homage Project! This is a 2D game developed in C++, paying tribute to the beloved platformer, Celeste Classic. During my Informatics Engineering Degree at Universitat Politècnica de Catalunya (UPC), my classmate Alex Bernabé Álvarez and I brought this project to life.
 
